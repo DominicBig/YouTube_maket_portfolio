@@ -285,7 +285,7 @@
     z-index: 99;
     bottom: 0;
     left: 0;
-    width: 100%;
+    width: 93%;
     background-color: #fff;
   }
   .mobile-sidebar .nav-link {
@@ -340,7 +340,7 @@
     margin-left: 25px;
     transition: top 0.2;
   }
-  .slider-buttons{
+  .slider-buttons {
     display: none;
   }
 }
