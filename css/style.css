@@ -340,4 +340,7 @@
     margin-left: 25px;
     transition: top 0.2;
   }
+  .slider-buttons{
+    display: none;
+  }
 }
